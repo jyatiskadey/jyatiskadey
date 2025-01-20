@@ -8,12 +8,18 @@
 - 🚀 Fun fact: I enjoy debugging—it’s like solving a puzzle!
 
 ## 🔧 Technologies & Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
+![ShadCN](https://img.shields.io/badge/-ShadCN-9B5DE5?logo=react&logoColor=white&style=flat)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-00B4B2?logo=react&logoColor=white&style=flat)
+![Formik](https://img.shields.io/badge/-Formik-61DAFB?logo=react&logoColor=white&style=flat)
+
 
 ## 📊 GitHub Stats
 ![Jyatiska Dey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyatiskadey&show_icons=true&theme=radical)
